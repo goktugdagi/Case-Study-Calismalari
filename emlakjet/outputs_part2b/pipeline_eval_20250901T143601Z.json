@@ -1,0 +1,20 @@
+{
+  "emb_user": "outputs_part2a_lightgcn\\user_embeddings_lightgcn_20250901T143300Z.csv",
+  "emb_item": "outputs_part2a_lightgcn\\item_embeddings_lightgcn_20250901T143300Z.csv",
+  "K_list": [
+    10,
+    20,
+    50
+  ],
+  "metrics": {
+    "Recall@10": 0.7623910851410399,
+    "Recall@20": 0.8269255629960959,
+    "Recall@50": 0.8698968379140057,
+    "NDCG@10": 0.5517876423387292,
+    "NDCG@20": 0.5681975396081425,
+    "NDCG@50": 0.5769097618129088,
+    "MRR@10": 0.48492698585066135,
+    "MRR@20": 0.4894793492652169,
+    "MRR@50": 0.49095568178388305
+  }
+}

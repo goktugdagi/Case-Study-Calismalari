@@ -1,0 +1,27 @@
+{
+  "summary": {
+    "kullanıcı sayısı": 42085,
+    "ilan sayısı": 21017,
+    "kenar sayısı": 96081,
+    "ortalama kullanıcı derecesi": 2.283,
+    "ortalama ilan derecesi": 4.572,
+    "bileşen sayısı": 1675,
+    "weight_min": 1.074877,
+    "weight_mean": 1.543639,
+    "weight_max": 34.005643
+  },
+  "extra": {
+    "kullanıcı derece median": 2.0,
+    "kullanıcı derece p90": 4.0,
+    "kullanıcı derece p99": 11.0,
+    "ilan derece median": 2.0,
+    "ilan derece p90": 9.0,
+    "ilan derece p99": 36.0
+  },
+  "weight_stats": {
+    "weight_median": 1.0949833229619041,
+    "weight_p90": 4.312241406584362,
+    "weight_p99": 4.399618073250005,
+    "weight_std": 1.2068320838826758
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "kullanıcı sayısı": 42085,
+  "ilan sayısı": 21017,
+  "kenar sayısı": 96081,
+  "ortalama kullanıcı derecesi": 2.283,
+  "ortalama ilan derecesi": 4.572,
+  "edge_weight_min": 1.074877,
+  "edge_weight_max": 34.005643,
+  "edge_weight_mean": 1.543639
+}

@@ -1,0 +1,13 @@
+{
+  "run_id": "20250901T142602Z",
+  "graphml_path": "C:\\Users\\GED\\Desktop\\emlakjet\\outputs_part1a\\bipartite_user_item.graphml",
+  "params": {
+    "EVENTS_CSV": "C:\\Users\\GED\\Desktop\\emlakjet\\user_event_data.csv",
+    "ITEMS_CSV": "C:\\Users\\GED\\Desktop\\emlakjet\\item_information.csv",
+    "WEIGHT_CLICK": 1.0,
+    "WEIGHT_PURCHASE": 3.0,
+    "HALF_LIFE_DAYS": 30.0,
+    "SESSION_BOOST": 1.1,
+    "OUTPUT_DIR": "C:\\Users\\GED\\Desktop\\emlakjet\\outputs_part1a"
+  }
+}
